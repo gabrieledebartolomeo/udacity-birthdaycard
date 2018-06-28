@@ -18,7 +18,8 @@
         android:layout_height="wrap_content"
         android:text="Happy Birthday Gabri!"
         android:textColor="#FFFFFF"
-        android:textSize="40sp" />
+        android:textSize="40sp"
+        android:fontFamily="sans-serif"/>
 
     <TextView
         android:id="@+id/by_gabri"
